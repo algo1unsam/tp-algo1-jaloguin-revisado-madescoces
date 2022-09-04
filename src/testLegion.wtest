@@ -1,3 +1,4 @@
+import barrio.*
 import chicos.*
 import elementos.*
 import adultos.*

@@ -69,7 +69,7 @@ object pedro {
 	method caramelos() = caramelos
 }
 
-/*	Jaimito es tímido, sin disfraces no asusta nada y si tiene disfraces pierde la quinta parte de su capacidad de susto
+/*	Jaimito es tímido, sin disfraces no asusta nada y si tiene disfraces pierde parte de su capacidad de susto
 	esto empeora cuando se quita un disfraz por que se siente doblemente inseguro, sin embargo si es un disfraz que uso
 	muchas veces su timidez no cambia
 */
